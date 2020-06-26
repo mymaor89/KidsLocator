@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827531544009",
+    "firebase_url": "https://kidslocator-3c1fe.firebaseio.com",
+    "project_id": "kidslocator-3c1fe",
+    "storage_bucket": "kidslocator-3c1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827531544009:android:5423879575c00b6f6fd418",
+        "android_client_info": {
+          "package_name": "il.ac.sce.ac.maorya.kidslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827531544009-ssv06k0q0virca4horjvl8ap1pcmrpc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "il.ac.sce.ac.maorya.kidslocator",
+            "certificate_hash": "e11424abcc27c7ee8c6968b0969b8b3d10874c5c"
+          }
+        },
+        {
+          "client_id": "827531544009-94fna6f9a28uif3qa3lnfbenujom9sce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81cUtcrf44dlhWZRGcNRF2ofthHHnpdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827531544009-94fna6f9a28uif3qa3lnfbenujom9sce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
